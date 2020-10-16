@@ -1,6 +1,7 @@
 # Copyright (C) 2015 Freescale Semiconductor
 # Copyright (C) 2015 O.S. Systems Software LTDA.
 # Released under the MIT license (see COPYING.MIT for the terms)
+COMPATIBLE_MACHINE = "(mx6|mx7|mx8)"
 
 SUMMARY = "Set of audio tools for inclusion on images"
 LICENSE = "MIT"
